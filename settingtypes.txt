@@ -1,0 +1,1 @@
+tnt.mindpeth (TNT minium depth) int -100 -31000 31000
